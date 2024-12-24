@@ -1,3 +1,5 @@
 Reapers Media Explorer can be used to drag and drop audio for other programs, not just Reaper
 Try binding your most used actions to the keys your left hand's fingers rests on
 Automation Items let you reuse automation across plugins, tracks and even projects!
+Working with video? change grid to frames for easier editing
+use startup actions to run actions when opening reaper/projects (like the one you are using now!
