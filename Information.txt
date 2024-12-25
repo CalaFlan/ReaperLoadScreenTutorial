@@ -5,6 +5,9 @@ Working with video? change grid to frames for easier editing
 use startup actions to run actions when opening reaper/projects (like the one you are using now!
 set up multiple tool bars and switch between them as needed.
 save time by combining multiple actions into custom actions 
-use parameter modulation on any fx setting to add an LFO.
+use parameter modulation on any fx setting to add an LF or side chain.
 right click the track panel and add "virtual spacer" to organise and separate tracks
-use the track manager to choose what tracks are displayed and played on each screen
+use the track manager to choose what tracks are displayed and played on each screen and much more
+composing? check out reapers notation editor
+control reaper on your phone or tablet using a Web browser interface
+use the projects bay to help manage your project
