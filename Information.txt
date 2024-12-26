@@ -15,5 +15,7 @@ looking to collaborate? check out NINJAM to work along side other people in the 
 check out the track wiring view to easily visualise and manage your projects routing
 use the media browser to quickly import sound effects and samples
 in the media browser, create databases of similar audio to group them together without moving files around
-route 
 test out the different peak display modes, normal, spectogram, spectral or rectified
+check out the track grouping matrix to manage your groups
+try using binary operators "AND", "OR" & "NOT()" in search bars to exclude unwanted results
+looking to render a lot of items? check out the region render matrix and wildcards.
