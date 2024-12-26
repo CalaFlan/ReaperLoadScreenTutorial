@@ -12,3 +12,8 @@ composing? check out reapers notation editor
 control reaper on your phone or tablet using a Web browser interface
 use the projects bay to help manage your project
 looking to collaborate? check out NINJAM to work along side other people in the same project remotely.
+check out the track wiring view to easily visualise and manage your projects routing
+use the media browser to quickly import sound effects and samples
+in the media browser, create databases of similar audio to group them together without moving files around
+route 
+test out the different peak display modes, normal, spectogram, spectral or rectified
