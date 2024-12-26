@@ -19,3 +19,12 @@ test out the different peak display modes, normal, spectogram, spectral or recti
 check out the track grouping matrix to manage your groups
 try using binary operators "AND", "OR" & "NOT()" in search bars to exclude unwanted results
 looking to render a lot of items? check out the region render matrix and wildcards.
+Jump around your projects using markers 0-9 and the corresponding number keys
+try experimenting with different pan modes to see what works best for your needs
+use item selection sets to easily select groups of items
+export your music score to pdf or musicXML
+use the hot key "?" to bring up the action list to browse available actions
+in the actions list, select "find shortcut" to find if a shortcut has already been assigned
+use different actions lists to change what shortcuts are used in different contexts
+export and back up your key maps, to ensure you don't lose your hot keys.
+looking for a new work flows? explore bespoke workflows like LCK Render Blocks and NVK_WORKFLOW
