@@ -43,3 +43,4 @@ you can add meta data as you render from Reaper
 use the dry run option when rendering to test your levels and check for any issues before rendering for real
 use the batch file converter to quickly change file types, names and properties in one go
 use the find button in the preferences field to quickly find the setting you're looking for 
+use the render queue to batch render multiple sounds, or render the same sound in different formats
