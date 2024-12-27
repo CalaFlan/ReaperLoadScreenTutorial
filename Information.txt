@@ -30,4 +30,8 @@ export and back up your key maps, to ensure you don't lose your hot keys.
 looking for a new work flows? explore bespoke workflows like LCK Render Blocks and NVK_WORKFLOW
 install SWS/S&M to add more features to Reaper
 use the ReaPack package manager to easily install and maintain a wide range of extensions
-
+use the toolbar docker to swap between toolbars quickly
+create folders in the add FX menu to group together your favourite plugins for different tasks
+quickly route tracks by dragging a track's routing button to the track you want to receive audio 
+fx containers can help make your fx staging more clear 
+preform Parrelel FX processing on a single track by routing fx outputs to separate channels and then combining them again in a final plugin (like realimit)
