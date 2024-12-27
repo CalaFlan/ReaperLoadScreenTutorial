@@ -37,3 +37,6 @@ fx containers can help make your fx staging more clear
 preform Parrelel FX processing on a single track by routing fx outputs to separate channels and then combining them again in a final plugin (like ReaLimit)
 use ReaSurround and ReaSurroundPan to help with surround sound mixing
 by default, Reaper will auto mute a track that exceeds 12dB+
+lock envelopes and tracks to prevent unwanted changes
+Reaper supports basic video editing using the same techniques used for editing audio
+
