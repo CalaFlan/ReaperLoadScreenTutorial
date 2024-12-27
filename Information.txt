@@ -39,4 +39,7 @@ use ReaSurround and ReaSurroundPan to help with surround sound mixing
 by default, Reaper will auto mute a track that exceeds 12dB+
 lock envelopes and tracks to prevent unwanted changes
 Reaper supports basic video editing using the same techniques used for editing audio
-
+you can add meta data as you render from Reaper
+use the dry run option when rendering to test your levels and check for any issues before rendering for real
+use the batch file converter to quickly change file types, names and properties in one go
+use the find button in the preferences field to quickly find the setting you're looking for 
