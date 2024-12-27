@@ -29,5 +29,5 @@ use different actions lists to change what shortcuts are used in different conte
 export and back up your key maps, to ensure you don't lose your hot keys.
 looking for a new work flows? explore bespoke workflows like LCK Render Blocks and NVK_WORKFLOW
 install SWS/S&M to add more features to Reaper
-use the ReaPack package manager to easily install and update extensions
+use the ReaPack package manager to easily install and maintain a wide range of extensions
 
