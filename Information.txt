@@ -34,4 +34,6 @@ use the toolbar docker to swap between toolbars quickly
 create folders in the add FX menu to group together your favourite plugins for different tasks
 quickly route tracks by dragging a track's routing button to the track you want to receive audio 
 fx containers can help make your fx staging more clear 
-preform Parrelel FX processing on a single track by routing fx outputs to separate channels and then combining them again in a final plugin (like realimit)
+preform Parrelel FX processing on a single track by routing fx outputs to separate channels and then combining them again in a final plugin (like ReaLimit)
+use ReaSurround and ReaSurroundPan to help with surround sound mixing
+by default, Reaper will auto mute a track that exceeds 12dB+
