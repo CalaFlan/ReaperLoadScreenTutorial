@@ -52,3 +52,9 @@ apply fx to individual items, not just tracks
 Assign actions to midi inputs and turn your MIDI controller into a hotkey keyboard 
 Kenny Gioia
 simplify your most used actions by setting them to single keys (rather than being combined with shift or ctrl)
+use the performance meter to help identify what fx are hogging your CPU
+use ripple editing when editing long single tracks(such as podcasts)
+try out reapers built in sample ReaSamplOmatic 5000 
+use track and project templates to give yourself a headstart on project setup.
+try hiding unused tracks to clear up your project.
+DC offset? use a highpass filter set to 5hz
