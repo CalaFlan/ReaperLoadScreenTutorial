@@ -47,3 +47,8 @@ use the render queue to batch render multiple sounds, or render the same sound i
 right click the mute and solo buttons to see an expanded range of actions (such as exclusive soloing)
 use the loudness analyser to quickly measure loudness data without having to render or playback audio 
 press shift-p to open the envelope of your last changed fx parameter.
+alt click a plugins wet/dry knob to hear only the wet signal before it is mixed with the dry
+apply fx to individual items, not just tracks
+Assign actions to midi inputs and turn your MIDI controller into a hotkey keyboard 
+Kenny Gioia
+simplify your most used actions by setting them to single keys (rather than being combined with shift or ctrl)
