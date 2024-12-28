@@ -44,3 +44,6 @@ use the dry run option when rendering to test your levels and check for any issu
 use the batch file converter to quickly change file types, names and properties in one go
 use the find button in the preferences field to quickly find the setting you're looking for 
 use the render queue to batch render multiple sounds, or render the same sound in different formats
+right click the mute and solo buttons to see an expanded range of actions (such as exclusive soloing)
+use the loudness analyser to quickly measure loudness data without having to render or playback audio 
+press shift-p to open the envelope of your last changed fx parameter.
