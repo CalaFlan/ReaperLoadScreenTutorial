@@ -58,3 +58,4 @@ try out reapers built in sample ReaSamplOmatic 5000
 use track and project templates to give yourself a headstart on project setup.
 try hiding unused tracks to clear up your project.
 DC offset? use a highpass filter set to 5hz
+setup track templates to skip setting up new tracks with the same settings over and over
