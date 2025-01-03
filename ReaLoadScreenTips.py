@@ -2,14 +2,17 @@
 # Script to make tutorial image
 import linecache 
 import random
+import textwrap
 
 # Image Libraries
-from PIL import Image
-from PIL import ImageDraw
+from PIL import Image, ImageDraw, ImageFont
 
 infoFileName = "Information.txt"  
-splashTemplate = "Reaper Splash.png"
+splashTemplateName = "Reaper Splash.png"
 editedSplashName = "Splash.png"
+
+MarginWidth = 40
+
 # on script start 
 # open file and get a random line
 # open the splash image template
@@ -26,19 +29,21 @@ print(numOfLines+1)
 SelectedLine = random.randint(0, numOfLines+1)
 
 # Print a random Line
-Tip = linecache.getline(infoFileName, SelectedLine)
-print(Tip)
+tutorialMessage = linecache.getline(infoFileName, SelectedLine)
+print(tutorialMessage)
 
 ### Image Gen
+# Open Splash Template, get its size
+img = Image.open(splashTemplateName)
 
-# Open Splash Template
-img = Image.open(splashTemplate)
- 
+# Get the size
+imgWidth, imgHeight = img.size 
+
 # Call draw Method to add 2D graphics in an image
 I1 = ImageDraw.Draw(img)
- 
 # Add Text to an image
-I1.text((28, 36), Tip, fill=(255, 0, 0))
+
+I1.text((imgWidth/10, imgHeight-imgHeight/10), tutorialMessage, fill=(255, 255 , 255), align = "center")
  
 # Display edited image
 img.show()
