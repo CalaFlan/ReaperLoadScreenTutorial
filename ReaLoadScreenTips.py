@@ -3,7 +3,7 @@
 # Script to make tutorial image
 
 import linecache 
-import  random
+import random
 
 infoFileName = "Information.txt"  
 
@@ -18,7 +18,7 @@ with open(infoFileName, 'r') as fp:
     for numOfLines, line in enumerate(fp):
         pass
 
-    
+    # Chose a random Line
 print(numOfLines+1)
 SelectedLine = random.randint(0, numOfLines+1)
 
